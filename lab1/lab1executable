@@ -1,0 +1,25 @@
+//lab1 CS 370
+//simple word and number counting in Lex
+//Jan 20, 2023
+//Micah Too
+/*all: lab1
+lab1: lab1.l
+    lex lab1.l
+    gcc lex.y.c -o lab1
+clean:
+    rm -f lab1
+
+    //create a test file
+   vi test
+   Micah Too
+   Too
+   Too
+   123
+   run
+   ./lab1<test
+   remove all errors
+   create a makefile
+   count the number of numbers
+   add a count
+   
+   */

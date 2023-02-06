@@ -1,0 +1,36 @@
+/*structure of the symbol table
+C requires us to declare prototypes before we use them
+symtab members - remove label -we will use it in the calculator
+INT x =0, y=1,z =2
+two pointers first and last defaults to null
+
+main 
+takes input
+calls a function in each case
+size of symbol will always be 
+all interactions with user have to be in the main function
+main asks for symbol and a number
+construct label should be done by the time we a re done
+
+Ctrl C
+
+*symbol defaults to null
+when main gets called it creates an activatio
+points to the same spot in memory
+
+symbol = stringdup(input) - we do this if we do not want to loose it
+read into the local memory
+
+search
+
+
+insert 
+
+defines in symbol table
+#ifndef Symtable
+define symtable
+
+prototypes 
+
+
+*/
